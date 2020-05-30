@@ -4,7 +4,6 @@ TypeScript is a superset that needs to compile to plain JavaScript. It offers mo
 
 In this guide, I will lead you through TypeScript by learning first all the basics needed to start with this great language, and then finish up this article by building an app from scratch using HTML, CSS, and TypeScript.
 
-[Read the complete article](https://www.ibrahima-ndaw.com/blog/a-practical-guide-to-typescript)
 
 -   [What is TypeScript?](#what-is-typescript)
 -   [Setting up TypeScript](#setting-up-typescript)
